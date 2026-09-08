@@ -199,7 +199,7 @@ A part of my problem-solving and learning activities.
     <img
       src="./assets/chess-stats.svg"
       alt="Siddhi's Chess.com Statistics"
-      width="820"
+      width="620"
     />
   </a>
 </p>
