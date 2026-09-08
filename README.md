@@ -74,6 +74,7 @@ Computer Science graduate and MCA student who enjoys building projects, explorin
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
 ---
 
 ## Experience
@@ -193,16 +194,14 @@ Currently building my problem-solving skills through programming practice.
 
 A part of my problem-solving and learning activities.
 
-<!-- Chess.com statistics will be connected here -->
 <p align="center">
   <a href="https://www.chess.com/member/siddhim76">
-    <img
-      src="./assets/chess-stats.svg"
-      alt="Siddhi's Chess.com Statistics"
-      width="620"
-    />
+    <strong>siddhim76 · Chess.com Profile</strong>
   </a>
 </p>
+
+<!--START_SECTION:chessStats-->
+<!--END_SECTION:chessStats-->
 
 
 ### 🌍 Duolingo
