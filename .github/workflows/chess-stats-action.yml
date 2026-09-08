@@ -1,0 +1,31 @@
+name: Update Chess.com Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with Chess.com stats and games
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Chess.com stats
+        uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: siddhim76
+          GAMES_SIZE: 5
+          SHOW_DATE: true
+          SHOW_FEN: true
+          SHOW_STATS: true
+          SHOW_TIME_CLASS: true
+          COMMIT_USERNAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "Update Chess.com stats and games"
