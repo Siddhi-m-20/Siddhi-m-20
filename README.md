@@ -199,7 +199,8 @@ A part of my problem-solving and learning activities.
 
 Learning and maintaining consistency outside of coding as well.
 
-<!-- Duolingo statistics will be connected here -->
+<!--START_SECTION:duolingoStats-->
+<!--END_SECTION:duolingoStats-->
 
 ### 📊 Kaggle
 
