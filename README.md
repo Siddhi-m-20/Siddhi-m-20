@@ -200,6 +200,12 @@ A part of my problem-solving and learning activities.
 Learning and maintaining consistency outside of coding as well.
 
 <!--START_SECTION:duolingoStats-->
+<p align="center">
+  <img
+    src="https://duolingo-streak-tracker.vercel.app/api/card/siddhim20?theme=dark&variant=default&show=streak,xp,languages"
+    width="500"
+  />
+</p>
 <!--END_SECTION:duolingoStats-->
 
 ### 📊 Kaggle
