@@ -1,0 +1,16 @@
+name: Update Duolingo Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update Duolingo Stats
+        uses: centrumek/duolingo-readme-stats@main
+        with:
+          user_id: "siddhim20"
