@@ -205,16 +205,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 944 | 436 | 356 |
+| Current | 944 | 436 | 357 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Tatander | **siddhim76** | win 🥇 | 9/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp4pp/3b4/8/5p2/1P2P1N1/PBP3PP/RN2K2R w KQ - 0 19">Link</a> | Bullet |
+| **siddhim76** | aris543 | checkmated ❌ | 9/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/1p3ppp/p2p4/2pP2P1/2Pp3b/3P1P1b/PP4qP/5RKR w - - 2 19">Link</a> | Bullet |
 | **siddhim76** | YONOES03 | timeout ❌ | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b3r3/2R4p/4kppb/2B1p3/2n5/5NP1/PP3P1P/4K2R w K - 0 28">Link</a> | Bullet |
 | NirajK21 | **siddhim76** | win 🥇 | 3/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2pQ1ppp/3p4/p3p3/P1Pq4/8/5KPP/R7 w - - 4 28">Link</a> | Daily |
 | **siddhim76** | NirajK21 | win 🥇 | 24/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2pb1p1Q/p2p4/1p1Pb1p1/1P6/2P1PP2/P5B1/RNB1K2R b KQ - 0 19">Link</a> | Daily |
-| NirajK21 | **siddhim76** | agreed ⏸️ | 19/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1k6/2p5/2K4p/3P4/3nB1P1/8 w - - 5 59">Link</a> | Daily |
-| **siddhim76** | treki123 | timeout ❌ | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/p3n1bp/2p3p1/8/5B2/3q2P1/PPr2P1P/R4K1R w q - 0 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
