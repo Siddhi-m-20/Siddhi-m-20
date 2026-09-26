@@ -205,16 +205,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 944 | 436 | 342 |
+| Current | 944 | 436 | 335 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| onoruoyizah | **siddhim76** | timeout ❌ | 26/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb5/ppp5/2k5/3p2P1/4p3/1PP5/P1P1B2P/R1B1K3 b Q - 0 23">Link</a> | Bullet |
 | kangonyax | **siddhim76** | timeout ❌ | 22/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/pppbpppp/2n2q2/3N4/1PP5/P2P1N1P/4BPP1/R2Q1RK1 b - c3 0 13">Link</a> | Bullet |
 | **siddhim76** | indira117 | timeout ❌ | 22/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2R3pp/rp1kp3/8/8/8/PnP3PP/4KR2 w - - 2 27">Link</a> | Bullet |
 | **siddhim76** | SS_Boogie | timeout ❌ | 19/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/1p2r2p/8/2PP4/5P1P/PP1n4/5K2 w - - 1 30">Link</a> | Bullet |
 | cold_yass | **siddhim76** | win 🥇 | 19/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/p6p/4p3/1pP5/1P4P1/P1n1B3/2PQ2bP/R3Kq2 w Qkq - 2 19">Link</a> | Bullet |
-| **siddhim76** | NathanielSalmon | win 🥇 | 19/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/p1p1qpQp/8/7N/3P4/N7/2P3bP/2KR1B1R b - - 0 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
