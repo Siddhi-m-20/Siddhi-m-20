@@ -205,16 +205,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 944 | 436 | 335 |
+| Current | 903 | 436 | 335 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **siddhim76** | junedbeg | win 🥇 | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/1r6/4PN2/P2R1K2/1k6/8/1R6 b - - 1 43">Link</a> | Rapid |
+| Janasurya_K | **siddhim76** | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2Q3/p4R2/8/1p6/2p5/6P1/PPP2P1P/6K1 b - - 8 38">Link</a> | Rapid |
+| **siddhim76** | moshiur2006 | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1B3pp1/7p/2p1p3/5bP1/2n2P1K/7r/8 w - - 0 34">Link</a> | Rapid |
 | shri005 | **siddhim76** | win 🥇 | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=n2rbkr1/Qpp1pp1p/3p4/4nq2/1P5B/2P2P2/P2PP1P1/1N1R2KB w kq - 1 10">Link</a> | Blitz |
 | onoruoyizah | **siddhim76** | timeout ❌ | 26/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb5/ppp5/2k5/3p2P1/4p3/1PP5/P1P1B2P/R1B1K3 b Q - 0 23">Link</a> | Bullet |
-| kangonyax | **siddhim76** | timeout ❌ | 22/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/pppbpppp/2n2q2/3N4/1PP5/P2P1N1P/4BPP1/R2Q1RK1 b - c3 0 13">Link</a> | Bullet |
-| **siddhim76** | indira117 | timeout ❌ | 22/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2R3pp/rp1kp3/8/8/8/PnP3PP/4KR2 w - - 2 27">Link</a> | Bullet |
-| **siddhim76** | SS_Boogie | timeout ❌ | 19/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/1p2r2p/8/2PP4/5P1P/PP1n4/5K2 w - - 1 30">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
