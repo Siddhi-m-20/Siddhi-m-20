@@ -205,16 +205,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 903 | 436 | 335 |
+| Current | 930 | 460 | 335 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **siddhim76** | junedbeg | win 🥇 | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/1r6/4PN2/P2R1K2/1k6/8/1R6 b - - 1 43">Link</a> | Rapid |
-| Janasurya_K | **siddhim76** | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2Q3/p4R2/8/1p6/2p5/6P1/PPP2P1P/6K1 b - - 8 38">Link</a> | Rapid |
-| **siddhim76** | moshiur2006 | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1B3pp1/7p/2p1p3/5bP1/2n2P1K/7r/8 w - - 0 34">Link</a> | Rapid |
-| shri005 | **siddhim76** | win 🥇 | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=n2rbkr1/Qpp1pp1p/3p4/4nq2/1P5B/2P2P2/P2PP1P1/1N1R2KB w kq - 1 10">Link</a> | Blitz |
-| onoruoyizah | **siddhim76** | timeout ❌ | 26/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb5/ppp5/2k5/3p2P1/4p3/1PP5/P1P1B2P/R1B1K3 b Q - 0 23">Link</a> | Bullet |
+| **siddhim76** | GururajSaralaya | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1Qp1k/3p1Ppp/8/1K6/6P1/P6P/6q1 b - - 1 43">Link</a> | Blitz |
+| **siddhim76** | akhmadakhsan | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1n2b1B/p6p/8/1Q4k1/4P3/1P6/P2K1PNP/8 b - - 2 31">Link</a> | Blitz |
+| DrSaad12 | **siddhim76** | checkmated ❌ | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1b1r/p1pQpp1p/1rB2qp1/4N3/3P4/2P5/P1P2PPP/R1B1K2R b KQ - 4 15">Link</a> | Blitz |
+| musa_kanimekh | **siddhim76** | checkmated ❌ | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p5pp/8/kQP1p3/2B5/P1N5/2n2PP1/1RB2RK1 b - - 0 27">Link</a> | Blitz |
+| Bayar11r | **siddhim76** | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K5k1/7p/8/8/8/8/r7/1q6 w - - 10 62">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
