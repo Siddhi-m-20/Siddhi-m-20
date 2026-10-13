@@ -210,11 +210,11 @@ A part of my problem-solving and learning activities.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **siddhim76** | GururajSaralaya | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1Qp1k/3p1Ppp/8/1K6/6P1/P6P/6q1 b - - 1 43">Link</a> | Blitz |
-| **siddhim76** | akhmadakhsan | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1n2b1B/p6p/8/1Q4k1/4P3/1P6/P2K1PNP/8 b - - 2 31">Link</a> | Blitz |
-| DrSaad12 | **siddhim76** | checkmated ❌ | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1b1r/p1pQpp1p/1rB2qp1/4N3/3P4/2P5/P1P2PPP/R1B1K2R b KQ - 4 15">Link</a> | Blitz |
-| musa_kanimekh | **siddhim76** | checkmated ❌ | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p5pp/8/kQP1p3/2B5/P1N5/2n2PP1/1RB2RK1 b - - 0 27">Link</a> | Blitz |
-| Bayar11r | **siddhim76** | win 🥇 | 9/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K5k1/7p/8/8/8/8/r7/1q6 w - - 10 62">Link</a> | Blitz |
+| Pasha3t | **siddhim76** | checkmated ❌ | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3R4/1pN4p/4QP2/2P5/P6b/1K1k4 b - - 0 36">Link</a> | Blitz |
+| SPR000 | **siddhim76** | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1Q1ppkp/1p1p2p1/3N4/3Pn3/2P5/PP1BPqPP/3R1KNR w K - 0 15">Link</a> | Blitz |
+| **siddhim76** | TBone70s | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1k6/1pp2N2/7p/PPQ1N3/5P2/3P3P/R3K3 b - - 0 33">Link</a> | Blitz |
+| **siddhim76** | steveyb1981 | checkmated ❌ | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p4p/1pnp2p1/p7/8/8/r7/1r1K4 w - - 14 54">Link</a> | Blitz |
+| MOHMMAD1234ii | **siddhim76** | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rknn1b1r/ppppp1pb/7p/8/3P1B2/1N4PP/PPq1PP2/RK1NQB1R w KQkq - 0 7">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
