@@ -205,16 +205,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 930 | 460 | 335 |
+| Current | 930 | 460 | 345 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **siddhim76** | Arkaj2016 | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3R3/3p4/8/5k2/2P5/PP6/2K5 b - - 1 48">Link</a> | Bullet |
 | Pasha3t | **siddhim76** | checkmated ❌ | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3R4/1pN4p/4QP2/2P5/P6b/1K1k4 b - - 0 36">Link</a> | Blitz |
 | SPR000 | **siddhim76** | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1Q1ppkp/1p1p2p1/3N4/3Pn3/2P5/PP1BPqPP/3R1KNR w K - 0 15">Link</a> | Blitz |
 | **siddhim76** | TBone70s | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1k6/1pp2N2/7p/PPQ1N3/5P2/3P3P/R3K3 b - - 0 33">Link</a> | Blitz |
 | **siddhim76** | steveyb1981 | checkmated ❌ | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p4p/1pnp2p1/p7/8/8/r7/1r1K4 w - - 14 54">Link</a> | Blitz |
-| MOHMMAD1234ii | **siddhim76** | win 🥇 | 13/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rknn1b1r/ppppp1pb/7p/8/3P1B2/1N4PP/PPq1PP2/RK1NQB1R w KQkq - 0 7">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
