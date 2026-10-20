@@ -240,6 +240,8 @@ Exploring datasets and practicing data-related skills.
 
 ---
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Siddhi-m-20)
+
 ### 🐍 Contribution Activity
 
 <p align="center">
