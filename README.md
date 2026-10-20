@@ -184,11 +184,23 @@ The project applies regression and time-series analysis along with data visualiz
 
 # 💻 Coding & Learning
 
-### LeetCode
+### LeetCode & HackerRank
 
 Currently building my problem-solving skills through programming practice.
 
 <!-- LeetCode statistics will be connected here -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <h5>LeetCode Stats</h5>
+      <img src="https://leetcard.jacoblin.cool/Siddhi-m-20?theme=dark&font=Karma" height="200"/>
+    </td>
+    <td align="center">
+      <h5>HackerRank Stats</h5>
+      <img src="https://hackerrank-stats.vercel.app/api?username=Siddhi_M" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ### ♟️ Chess.com
 
