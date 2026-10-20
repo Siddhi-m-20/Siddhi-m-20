@@ -6,17 +6,6 @@ Computer Science graduate and MCA student who enjoys building projects, explorin
 
 ---
 
-## About Me
-
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Computer Science graduate
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🌐 Interested in **Web Development**
-- 📊 Interested in **Data Analysis**
-- 🧩 Enjoy solving programming and problem-solving challenges
-- 🚀 Learning through projects and hands-on experimentation
-
----
 
 ## Education
 
@@ -275,16 +264,6 @@ Exploring datasets and practicing data-related skills.
 
 ---
 
-# 🌱 Currently Exploring
-
-- Artificial Intelligence & Machine Learning
-- Web Development
-- Data Analysis
-- Computer Vision
-- Programming & Problem Solving
-- New technologies through hands-on projects
-
----
 
 # 🤝 Connect With Me
 
