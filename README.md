@@ -211,11 +211,11 @@ A part of my problem-solving and learning activities.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Arkaj2016 | **siddhim76** | win 🥇 | 3/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1k2np1p/1p4p1/1N6/8/P6P/P1bP1P2/R1B3K1 w - - 0 25">Link</a> | Daily |
 | mohit29112011 | **siddhim76** | checkmated ❌ | 2/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/ppR2p2/4bN1B/5p2/8/6P1/PPP2P1P/2K4R b - - 0 21">Link</a> | Rapid |
 | **siddhim76** | Gracieelfreda | win 🥇 | 1/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/8/2R5/kp2Q2P/8/1P6/n2BK2R b - - 3 42">Link</a> | Blitz |
 | **siddhim76** | ozzyg7206 | timeout ❌ | 27/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp1q3p/8/4p1p1/3pP3/8/PPP3PP/R3K2R w KQkq - 0 18">Link</a> | Bullet |
 | BaluNandana | **siddhim76** | abandoned  | 27/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1">Link</a> | Bullet |
-| doublekayz | **siddhim76** | timeout ❌ | 27/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb4Q/pp2kp1p/3b4/2pP4/3N4/4KP2/PP4q1/RN3R2 b - - 1 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
