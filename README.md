@@ -206,16 +206,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 888 | 466 | 318 |
+| Current | 888 | 466 | 301 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Arkaj2016 | **siddhim76** | win 🥇 | 3/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1k2np1p/1p4p1/1N6/8/P6P/P1bP1P2/R1B3K1 w - - 0 25">Link</a> | Daily |
-| mohit29112011 | **siddhim76** | checkmated ❌ | 2/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/ppR2p2/4bN1B/5p2/8/6P1/PPP2P1P/2K4R b - - 0 21">Link</a> | Rapid |
-| **siddhim76** | Gracieelfreda | win 🥇 | 1/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/8/2R5/kp2Q2P/8/1P6/n2BK2R b - - 3 42">Link</a> | Blitz |
-| **siddhim76** | ozzyg7206 | timeout ❌ | 27/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp1q3p/8/4p1p1/3pP3/8/PPP3PP/R3K2R w KQkq - 0 18">Link</a> | Bullet |
-| BaluNandana | **siddhim76** | abandoned  | 27/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1">Link</a> | Bullet |
+| **siddhim76** | AREGGAG | win 🥇 | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp4pp/2p1pb2/5q2/1Pp5/2NR4/PBK5/4Q3 b kq - 1 28">Link</a> | Bullet |
+| dfjsfksjdf | **siddhim76** | timeout ❌ | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp4p/2p3p1/4P3/3n4/3bB3/PPPK1P1P/R6R b kq - 1 16">Link</a> | Bullet |
+| **siddhim76** | realestedoboi | checkmated ❌ | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/ppp1pppp/8/4P1N1/5Pn1/6P1/PPPP1q1P/R1BQKB1R w KQkq - 3 9">Link</a> | Bullet |
+| AzLkyBoy | **siddhim76** | win 🥇 | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp3pp/8/5p2/4p2P/b2P2P1/PB3Pn1/nN1K3R w kq - 1 19">Link</a> | Bullet |
+| **siddhim76** | NeighborlyPen | win 🥇 | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkr2/2pbbpNQ/4p3/pp6/8/3P1P2/PPP3PP/R3KB1R b KQ - 1 19">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
