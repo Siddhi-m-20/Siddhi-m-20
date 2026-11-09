@@ -206,16 +206,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 866 | 466 | 301 |
+| Current | 866 | 466 | 310 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Ahmed-967-547 | **siddhim76** | win 🥇 | 9/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1B2/p4p1Q/p5p1/3p1p2/b7/8/PP1K2PP/n6R w - - 0 21">Link</a> | Bullet |
 | Ro-oKie_e | **siddhim76** | checkmated ❌ | 8/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q1R4/4pN2/4P3/p7/8/PKP4P/8 b - - 0 42">Link</a> | Rapid |
 | **siddhim76** | AREGGAG | win 🥇 | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pp4pp/2p1pb2/5q2/1Pp5/2NR4/PBK5/4Q3 b kq - 1 28">Link</a> | Bullet |
 | dfjsfksjdf | **siddhim76** | timeout ❌ | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp4p/2p3p1/4P3/3n4/3bB3/PPPK1P1P/R6R b kq - 1 16">Link</a> | Bullet |
 | **siddhim76** | realestedoboi | checkmated ❌ | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/ppp1pppp/8/4P1N1/5Pn1/6P1/PPPP1q1P/R1BQKB1R w KQkq - 3 9">Link</a> | Bullet |
-| AzLkyBoy | **siddhim76** | win 🥇 | 6/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp3pp/8/5p2/4p2P/b2P2P1/PB3Pn1/nN1K3R w kq - 1 19">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
