@@ -206,16 +206,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 839 | 458 | 310 |
+| Current | 842 | 482 | 310 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **siddhim76** | cinak11 | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk3r/ppp1Q1pp/8/4p1B1/8/3P4/PP2KPBP/nN5R b - - 0 13">Link</a> | Blitz |
+| ghavi999 | **siddhim76** | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp2pppp/q1p5/3p1b2/3P4/1PN1PNP1/P4nBP/BQ1K3R w kq - 0 13">Link</a> | Blitz |
+| enkhee | **siddhim76** | resigned ❌ | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/p4kpp/2B1p3/5p1Q/1q6/3P2B1/PPP2PPP/R4RK1 b - - 6 20">Link</a> | Rapid |
+| **siddhim76** | black_Zetsue | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp4Q/1p4p1/3p3p/8/1P1q4/5PPP/R1R3K1 b - - 1 26">Link</a> | Rapid |
 | **siddhim76** | CuCuKa05 | checkmated ❌ | 16/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/r5p1/2q5/K7/1P6/P5P1/8 w - - 3 42">Link</a> | Blitz |
-| **siddhim76** | Deasispatrick06 | resigned ❌ | 14/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=bnrknr2/p2pp3/1p3p2/5Rp1/2PBP3/3P4/2P3qP/2RK4 b Qkq - 1 17">Link</a> | Blitz |
-| **siddhim76** | guardboy | checkmated ❌ | 13/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/2p2pp1/1pQ4p/p1b5/2B5/2P5/PP1N4/R1B2Kq1 w - - 2 25">Link</a> | Rapid |
-| Aditya_brex | **siddhim76** | checkmated ❌ | 13/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1N6/8/4P3/2Q1RPPP/3k2K1 b - - 5 54">Link</a> | Rapid |
-| Ahmed-967-547 | **siddhim76** | win 🥇 | 9/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1B2/p4p1Q/p5p1/3p1p2/b7/8/PP1K2PP/n6R w - - 0 21">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
