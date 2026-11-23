@@ -206,16 +206,16 @@ A part of my problem-solving and learning activities.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 842 | 482 | 310 |
+| Current | 842 | 482 | 331 |
 | Best | 1376 | 767 | 1305 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **siddhim76** | cinak11 | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk3r/ppp1Q1pp/8/4p1B1/8/3P4/PP2KPBP/nN5R b - - 0 13">Link</a> | Blitz |
-| ghavi999 | **siddhim76** | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp2pppp/q1p5/3p1b2/3P4/1PN1PNP1/P4nBP/BQ1K3R w kq - 0 13">Link</a> | Blitz |
-| enkhee | **siddhim76** | resigned ❌ | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/p4kpp/2B1p3/5p1Q/1q6/3P2B1/PPP2PPP/R4RK1 b - - 6 20">Link</a> | Rapid |
-| **siddhim76** | black_Zetsue | win 🥇 | 19/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp4Q/1p4p1/3p3p/8/1P1q4/5PPP/R1R3K1 b - - 1 26">Link</a> | Rapid |
-| **siddhim76** | CuCuKa05 | checkmated ❌ | 16/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/r5p1/2q5/K7/1P6/P5P1/8 w - - 3 42">Link</a> | Blitz |
+| **siddhim76** | ULTAMATECOOLER | win 🥇 | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3bkppp/4p3/3p4/1Q6/3P4/PPPK1nPP/R1B3N1 b - - 2 24">Link</a> | Bullet |
+| **siddhim76** | DVangelov8 | win 🥇 | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pppp1Qbp/2n3p1/4p3/2B1P3/2N5/PPPP1PPP/R1B1K1NR b KQkq - 0 5">Link</a> | Bullet |
+| mistr_skvidi | **siddhim76** | win 🥇 | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3p1p/2n5/8/1P2kP1P/2P5/1P6/4K3 w - - 1 33">Link</a> | Bullet |
+| **siddhim76** | shoo100 | aborted  | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/7p/1B4p1/5pK1/2p5/7P/5b2 w - - 0 41">Link</a> | Bullet |
+| yourboyaxel | **siddhim76** | win 🥇 | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/p3p2p/5p2/8/p2r4/8/2p5/4K3 w q - 0 44">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
